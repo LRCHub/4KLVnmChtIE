@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Boys Don't Cry",
+  "base_artist": "The Cure",
+  "createdAt": "2026-03-17T15:46:11.368097Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Dead Boys Don't Cry",
+      "artist": "Powerwolf",
+      "has_synced": true,
+      "path": "select/01_Dead_Boys_Don't_Cry_Powerwolf.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Dead Boys Don't Cry",
+      "artist": "Powerwolf",
+      "has_synced": true,
+      "path": "select/02_Dead_Boys_Don't_Cry_Powerwolf.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Big Boys Dont' Cry",
+      "artist": "The Flirts",
+      "has_synced": false,
+      "path": "select/03_Big_Boys_Dont'_Cry_The_Flirts.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Boys Don't Cry",
+      "artist": "The Cure",
+      "has_synced": true,
+      "path": "select/04_Boys_Don't_Cry_The_Cure.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Boys Don't Cry",
+      "artist": "The Cure",
+      "has_synced": true,
+      "path": "select/05_Boys_Don't_Cry_The_Cure.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Boy's Don't Cry - Acoustic Version",
+      "artist": "The Cure",
+      "has_synced": true,
+      "path": "select/06_Boy's_Don't_Cry_-_Acoustic_Version_The_Cure.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Boys Don't Cry (Acoustic)",
+      "artist": "The Cure",
+      "has_synced": true,
+      "path": "select/07_Boys_Don't_Cry_(Acoustic)_The_Cure.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Boys Don't Cry - New Voice Club Mix 1986",
+      "artist": "The Cure",
+      "has_synced": true,
+      "path": "select/08_Boys_Don't_Cry_-_New_Voice_Club_Mix_1986_The_Cure.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Boys Don't Cry (New Voice Club Mix 1986)",
+      "artist": "The Cure",
+      "has_synced": true,
+      "path": "select/09_Boys_Don't_Cry_(New_Voice_Club_Mix_1986)_The_Cure.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Boys Don't Cry (Extra Album Track)",
+      "artist": "The Cure",
+      "has_synced": true,
+      "path": "select/10_Boys_Don't_Cry_(Extra_Album_Track)_The_Cure.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Boys Don't Cry - Chestnut Studio Demo 5/78",
+      "artist": "The Cure",
+      "has_synced": true,
+      "path": "select/11_Boys_Don't_Cry_-_Chestnut_Studio_Demo_5_78_The_Cure.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Boys Don't Cry (Studio Demo)",
+      "artist": "The Cure",
+      "has_synced": false,
+      "path": "select/12_Boys_Don't_Cry_(Studio_Demo)_The_Cure.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Boys Don't Cry",
+      "artist": "Lostprophets",
+      "has_synced": true,
+      "path": "select/13_Boys_Don't_Cry_Lostprophets.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Boys Don't Cry (acoustic)",
+      "artist": "Lostprophets",
+      "has_synced": false,
+      "path": "select/14_Boys_Don't_Cry_(acoustic)_Lostprophets.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Boys Don't Cry",
+      "artist": "Camila Cabello",
+      "has_synced": true,
+      "path": "select/15_Boys_Don't_Cry_Camila_Cabello.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Boys Don't Cry",
+      "artist": "Natalia Kills",
+      "has_synced": true,
+      "path": "select/16_Boys_Don't_Cry_Natalia_Kills.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Boys Don't Cry",
+      "artist": "Prozac+",
+      "has_synced": false,
+      "path": "select/17_Boys_Don't_Cry_Prozac+.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Boys Don't Cry",
+      "artist": "The Cure",
+      "has_synced": false,
+      "path": "select/pl_01_Boys_Don't_Cry_The_Cure.txt"
+    }
+  ]
+}
