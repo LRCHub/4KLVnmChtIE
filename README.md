@@ -1,0 +1,44 @@
+# The Cure – Boys Don't Cry
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:25.70] I would say I'm sorry
+[00:27.85] If I thought that it would change your mind
+[00:31.40] But I know that this time
+[00:33.03] I have said too much
+[00:34.50] Been too unkind
+[00:37.03] I try to laugh about it
+[00:40.02] Cover it all up with lies
+[00:42.74] I try to laugh about it
+[00:45.20] Hiding the tears in my eyes
+[00:47.31] Cause boys don't cry
+[00:54.21] Boys don't cry
+[00:59.55] I would break down at your feet
+[01:02.13] And beg forgiveness
+[01:03.49] Plead with you
+[01:05.59] But I know that it's too late
+[01:07.88] And now there's nothing I can do
+[01:11.56] So I try to laugh about it
+[01:13.61] Cover it all up with lies
+[01:17.33] I try to laugh about it
+[01:19.90] Hiding the tears in my eyes
+[01:21.96] Cause boys don't cry
+[01:28.40] Boys don't cry
+[01:33.72] I would tell you
+[01:35.21] That I loved you
+[01:37.20] If I thought that you would stay
+[01:39.56] But I know that it's no use
+[01:41.64] That you've already gone away
+[01:45.59] Misjudged your limit
+[01:48.53] Pushed you too far
+[01:51.08] Took you for granted
+[01:53.76] Thought that you needed me more, more, more
+[01:56.45] Now I would do most anything
+[01:58.67] To get you back by my side
+[02:02.10] But I just keep on laughing
+[02:04.65] Hiding the tears in my eyes
+[02:07.40] Cause boys don't cry
+[02:13.52] Boys don't cry
+[02:21.19] Boys don't cry
+```
